@@ -1,5 +1,4 @@
 body {
-    background-color:black;
     font-family: arial;
     color: white;
 }
@@ -13,10 +12,11 @@ h1 {
     background-color: white;
     color: black;
     display: grid;
-    width: 90%;
+    width: 75%;
     padding: 1.5rem;
     border-radius: 0.5rem;
     text-align: center;
+    justify-content: center
 }
 
 
